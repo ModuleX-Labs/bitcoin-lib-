@@ -1,7 +1,5 @@
 # ModuleX - Bitcoin Protocol
 
-![ModuleX Logo](logo.png)
-
 ## Project Background & Technical Blueprint
 
 ### 💡 Project Overview
